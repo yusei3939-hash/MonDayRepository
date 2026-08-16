@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(19,13): error C2001: 文字列リテラル内の改行
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(21,5): error C2143: 構文エラー: ';' が 'for' の前にありません。
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(29,21): error C2001: 文字列リテラル内の改行
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(31,13): error C2146: 構文エラー: ';' が、識別子 'cin' の前に必要です。
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(38,21): error C2001: 文字列リテラル内の改行
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(39,9): error C2143: 構文エラー: ';' が '}' の前にありません。
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(97,13): error C2001: 文字列リテラル内の改行
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(98,5): error C2146: 構文エラー: ';' が、識別子 'cout' の前に必要です。
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(100,20): error C2001: 文字列リテラル内の改行
+C:\Users\myuei\Desktop\2026_Summer_Task2.cpp\2026_Summer_Task2.cpp\FileName.cpp(101,5): error C2146: 構文エラー: ';' が、識別子 'cout' の前に必要です。
